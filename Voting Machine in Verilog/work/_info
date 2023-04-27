@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/16.1
+vbuttonControl
+Z0 !s110 1682601936
+!i10b 1
+!s100 2z><>eX9bM9GW<MjXFRPF1
+IT6MagSoV^IQ>@T62mUJ121
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog
+w1682601142
+8C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/buttonControl.v
+FC:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/buttonControl.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1682601936.000000
+!s107 C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/buttonControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/buttonControl.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nbutton@control
+vmodeControl
+R0
+!i10b 1
+!s100 7b9PgVFZWa??gXdm[d7Hf3
+Iiz`JFQS:KNm6Q]?H:o@Yl1
+R1
+R2
+Z7 w1682601928
+8C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/modeControl.v
+FC:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/modeControl.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/modeControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/modeControl.v|
+!i113 1
+R5
+R6
+nmode@control
+vvoteLogger
+R0
+!i10b 1
+!s100 ;fkk?j];QF>Gi:HdN0i0h0
+IdZXURA3OS;oGDcU61zAlS0
+R1
+R2
+R7
+8C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/voteLogger.v
+FC:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/voteLogger.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/voteLogger.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/voteLogger.v|
+!i113 1
+R5
+R6
+nvote@logger
+vvotingMachine
+!s110 1682601937
+!i10b 1
+!s100 ATKkC]h7ILaNihhU=FD990
+I`4BXKa_6_Q[1?deicCUVB1
+R1
+R2
+R7
+8C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/votingMachine.v
+FC:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/votingMachine.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/votingMachine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/votingMachine.v|
+!i113 1
+R5
+R6
+nvoting@machine
+vvotingMachine_tb
+R0
+!i10b 1
+!s100 g=F>iNTalPn=3fiU=9H@;3
+IMhCfc04YGQ42iNXZC8=mI0
+R1
+R2
+R7
+8C:\Users\prita\OneDrive\Desktop\Quartus Prime Project files\lab 2\Voting Machine in verilog\votingMachine_tb.v
+FC:\Users\prita\OneDrive\Desktop\Quartus Prime Project files\lab 2\Voting Machine in verilog\votingMachine_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\prita\OneDrive\Desktop\Quartus Prime Project files\lab 2\Voting Machine in verilog\votingMachine_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\prita\OneDrive\Desktop\Quartus Prime Project files\lab 2\Voting Machine in verilog\votingMachine_tb.v|
+!i113 1
+R5
+R6
+nvoting@machine_tb
