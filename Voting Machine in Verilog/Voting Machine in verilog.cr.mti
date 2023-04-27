@@ -1,0 +1,36 @@
+{C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/votingMachine.v} {1 {vlog -work work -stats=none {C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/votingMachine.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module votingMachine
+
+Top level modules:
+	votingMachine
+
+} {} {}} {C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/votingMachine_tb.v} {1 {vlog -work work -stats=none {C:\Users\prita\OneDrive\Desktop\Quartus Prime Project files\lab 2\Voting Machine in verilog\votingMachine_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module votingMachine_tb
+
+Top level modules:
+	votingMachine_tb
+
+} {} {}} {C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/buttonControl.v} {1 {vlog -work work -stats=none {C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/buttonControl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module buttonControl
+
+Top level modules:
+	buttonControl
+
+} {} {}} {C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/voteLogger.v} {1 {vlog -work work -stats=none {C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/voteLogger.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module voteLogger
+
+Top level modules:
+	voteLogger
+
+} {} {}} {C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/modeControl.v} {1 {vlog -work work -stats=none {C:/Users/prita/OneDrive/Desktop/Quartus Prime Project files/lab 2/Voting Machine in verilog/modeControl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module modeControl
+
+Top level modules:
+	modeControl
+
+} {} {}}
